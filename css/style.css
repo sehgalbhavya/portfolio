@@ -1010,3 +1010,12 @@ section .container {
     transform: rotate(360deg);
   }
 }
+
+
+#main div img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 1080px;
+  height: 720px;
+}
